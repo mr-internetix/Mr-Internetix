@@ -1,14 +1,18 @@
-- 👋 Hi, I’m @Mr-Internetix
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-[![Ajit Yadav's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-internetix)](https://github.com/mr-internetix/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-internetix&layout=compact)](https://github.com/mr-internetix/github-readme-stats)
+<p align="center"><a href="https://github.com/mr-internetix"><img title="Mr-Internetix" src="https://github-readme-stats.vercel.app/api?username=mr-internetix&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+</p>
+<p align="center"><a href="https://github.com/MartinHeinz/MartinHeinz"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-internetix&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact"></a>
+</p>
 
-<!---
-Mr-Internetix/Mr-Internetix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+<a href="https://github.com/mr-internetix"><img title="Github" src="https://img.shields.io/badge/Git-Hub-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://youtube.com/mr_internetix"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Mr Internetix-red?style=for-the-badge&logo=Youtube"></a>
+  <a href="https://www.t.me/mr_internetix"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+<p align="center">
+<a href="https://t.me/mr_internetix"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://www.instagram.com/mr_internetix"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
+</p>
+ 
