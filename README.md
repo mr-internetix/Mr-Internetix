@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://github.com/mr-internetix"><img title="Mr-Internetix" src="https://github-readme-stats.vercel.app/api?username=mr-internetix&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
-<p align="center"><a href="https://github.com/MartinHeinz/MartinHeinz"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-internetix&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact"></a>
+<p align="center"><a href="https://github.com/MartinHeinz/mr-internetix"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-internetix&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact"></a>
 </p>
 
 <p align="center">
