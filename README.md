@@ -5,6 +5,12 @@
 <p align="center"><a href="https://github.com/mr-internetix"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-internetix&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact"></a>
 </p>
  -->
+ <p align="center">
+
+![Metrics](https://metrics.lecoq.io/mr-internetix?config.timezone=Asia%2FCalcutta)
+  </p>
+<br>
+
  |![](https://github-readme-stats.vercel.app/api?username=mr-internetix&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-internetix&layout=compact&theme=tokyonight&langs_count=10)|
 |-|-|
 
