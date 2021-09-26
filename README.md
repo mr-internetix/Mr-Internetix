@@ -33,13 +33,10 @@
 ![](https://activity-graph.herokuapp.com/graph?username=mr-internetix&theme=redical)
 
 <p align="center">
-<a href="https://github.com/mr-internetix"><img title="Github" src="https://img.shields.io/badge/Git-Hub-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://youtube.com/mr_internetix"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Mr Internetix-red?style=for-the-badge&logo=Youtube"></a>
+
   <a href="https://www.t.me/mr_internetix"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 </p>
-
 <p align="center">
-<a href="https://t.me/mr_internetix"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
 <a href="https://www.instagram.com/mr_internetix"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 </p>
  
