@@ -7,6 +7,9 @@
  -->
  |![](https://github-readme-stats.vercel.app/api?username=mr-internetix&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-internetix&layout=compact&theme=tokyonight&langs_count=10)|
 |-|-|
+
+![](https://activity-graph.herokuapp.com/graph?username=mr-internetix&theme=redical)
+
 <p align="center">
 <a href="https://github.com/mr-internetix"><img title="Github" src="https://img.shields.io/badge/Git-Hub-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://youtube.com/mr_internetix"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Mr Internetix-red?style=for-the-badge&logo=Youtube"></a>
