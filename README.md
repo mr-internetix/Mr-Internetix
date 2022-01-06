@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Mr-Internetix/Mr-Internetix/blob/555d27c384fc51b0948e4670a28ff8b034a693ad/images/banner.gif"/>
+</p>
 
 
 <p align="center">
