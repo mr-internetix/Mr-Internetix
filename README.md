@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Mr-Internetix/Mr-Internetix/blob/86de3bfacf3e797f2ed05787127bb703e7eb31d3/images/banner.gif" height="300" width="auto"/>
+  <img src="https://github.com/Mr-Internetix/Mr-Internetix/blob/86de3bfacf3e797f2ed05787127bb703e7eb31d3/images/banner.gif" />
 </p>
 
 
