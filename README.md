@@ -24,8 +24,3 @@
 |-|-|
 
 ![](https://activity-graph.herokuapp.com/graph?username=mr-internetix&theme=redical)
-<p align="center">
-   <a href="https://www.t.me/mr_internetix"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-<a href="https://www.instagram.com/mr_internetix"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
-</p>
- 
